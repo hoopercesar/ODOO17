@@ -1,0 +1,1 @@
+# algunos comandos básicos de ODOO-17 en UBUNTU-22.04
