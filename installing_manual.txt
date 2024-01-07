@@ -39,3 +39,7 @@ http://localhost:8069/
 
 
 sudo tail -f /var/log/odoo/odoo-server.log
+
+# referencias
+https://gist.github.com/nullx5/88abdbdc38f51db5580574f93b03c402
+https://www.youtube.com/watch?v=qqTn5CirHl8
