@@ -1,4 +1,5 @@
 # Installing ODOO-17 in UBUNTU-22.04
+# enero 2024
 
  sudo apt update; sudo apt upgrade -y
 
